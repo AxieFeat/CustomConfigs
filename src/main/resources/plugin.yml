@@ -1,0 +1,7 @@
+name: CustomConfigs
+version: '${version}'
+main: me.axiefeat.Main
+api-version: 1.18
+authors: [ AxieFeat ]
+description: CustomConfigs Lib for easy configs creation
+website: https://vk.com/pingisjoin
