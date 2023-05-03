@@ -23,3 +23,5 @@ try {
    throw new RuntimeException(e);
 }
 ```
+
+В данном случае в папке configs мы копируем messages.yml и сохраняем в папку плагина с тем же путём, что указан здесь
